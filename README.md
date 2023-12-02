@@ -1,13 +1,19 @@
 # Statproject
+
 Python and Solidworks statistical analysis for university year 3 RnD module project. The aim of this project is to perform multiple statistical analysis on a medical prosthetic.
 
+The project is in 2 parts. The majority being solidworks stat analysis, with the rest being SolidWorks 3D modelling material analysis
+Each part has its own readme file with more explanation.
+
 The chosen paper can be found at [https://journals.lww.com/spinejournal/FullText/2005/09011/The_Treatment_of_Spine_and_Chest_Wall_Deformities.11.aspx]
+
+** Brief paper notes **
 
 The objective of the paper is: 
 Is VEPTR (Vertical Expandable Prosthetic titanium rib) expansion good for treatment of TIS (Thoracic insufficiency syndrome) associated with fused ribs.
 - ET (expansion thoracostomy) and VEPTR were developed to directly control spine and chest deformity during growth
 
-Important arameters measured in the paper are:
+Important parameters measured in the paper are:
 - Cobb angle (standard measurement to determine and track the progression of scoliosis)
 - Length of Thoracic spine
 - CT derived lung volumes
@@ -22,5 +28,3 @@ Important arameters measured in the paper are:
 - 15 < X < 20 = low priority
 - 20 < X < 40  = medium
 - 40+ = spinal intervention required
-
-Due to the importance of this variable the first analysis we do is based on it. It can be found in "Cobbangleanlysis.ipynb", in this we perform a hypothesis test with use of a anderson darling test

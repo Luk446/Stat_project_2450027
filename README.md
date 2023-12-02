@@ -23,4 +23,4 @@ Important arameters measured in the paper are:
 - 20 < X < 40  = medium
 - 40+ = spinal intervention required
 
-Due to the importance of this variable the first analysis we do is based on it. It can be found in "Cobbangleanlysis.ipynb"
+Due to the importance of this variable the first analysis we do is based on it. It can be found in "Cobbangleanlysis.ipynb", in this we perform a hypothesis test with use of a anderson darling test

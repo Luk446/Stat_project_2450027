@@ -7,6 +7,7 @@ The project is split into two parts, which can be found in their relevant folder
 - Python data analysis using info derived from the paper
 - Solidworks 3d modelling
     - We use some python in this section too, utilising the visualisation power of python to describe material analysis
+- Generated images in all sections are extracted and put into relevant folders
 
 The chosen paper can be found at [https://journals.lww.com/spinejournal/FullText/2005/09011/The_Treatment_of_Spine_and_Chest_Wall_Deformities.11.aspx]
 

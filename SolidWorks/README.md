@@ -20,9 +20,11 @@ The construction drawing sheet demonstrates the individual parts dimesions and t
 ![Constructiondrawings+assems](https://github.com/Luk446/Stat_project_2450027/assets/145694364/d9d9b34a-ab4e-4b96-8733-7f5b4b1ea489)
 
 
-The folder study reports contains FEA analysis info.
+The folder study reports contains the generated FEA analysis info, the detail is extensive and provides in-depth evaluation on the material response parameters.
 
-From this folder we can derive some important information 
+For an easier more general evaluation a python notebook is generated following the format below:
+
+- For the data from the two assemblies we use the seaborn histplot function which plots bivarite histograms that are excellent in demonstrating the density of value distribution for values recorded
 
 First we analyse the extension assembly, in particular a torsion analyisis on the circular face 
 ![image](https://github.com/Luk446/Stat_project_2450027/assets/145694364/c0e6d1f2-8625-4a71-b314-a6ad4e1e6fae)
@@ -30,6 +32,5 @@ First we analyse the extension assembly, in particular a torsion analyisis on th
 Next we analyse the screw hook assembly, the hook face is tested.
 
 ![image](https://github.com/Luk446/Stat_project_2450027/assets/145694364/ee2e7f7e-f81d-453e-b937-d6a427c60856)
-
 
 All info derived is collated and displayed in the notebook "solidworkspython"

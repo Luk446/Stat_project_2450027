@@ -1,4 +1,4 @@
-This folder contains no visualisation of the solidworks part of the project. Due to the specificity of displaying models site like grabcad are much more suited. The construction drawings FEA reports are all available however. 
+This folder contains limited visualisation of the solidworks part of the project. Due to the specificity of displaying models site like grabcad are much more suited. The construction drawings FEA reports are all available however. 
 
 The models can be found on my [GrabCad!](https://grabcad.com/luke.edgecombe-2/models)
 

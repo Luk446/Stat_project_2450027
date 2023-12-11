@@ -1,4 +1,4 @@
-This folder contains no visualisation of the solidworks part of the project. Due to the specificity of displaying models site like grabcad are much more suited. The construction drawings and prints of FEA are all available however. 
+This folder contains no visualisation of the solidworks part of the project. Due to the specificity of displaying models site like grabcad are much more suited. The construction drawings FEA reports are all available however. 
 
 The models can be found on my [GrabCad!](https://grabcad.com/luke.edgecombe-2/models)
 
@@ -18,8 +18,4 @@ The construction drawing sheet demonstrates the individual parts dimesions and t
 ![Constructiondrawings+assems](https://github.com/Luk446/Stat_project_2450027/assets/145694364/d9d9b34a-ab4e-4b96-8733-7f5b4b1ea489)
 
 
-Several static studies are done to evalaute the material strength of the parts 
-
-![stress_ss_under](https://github.com/Luk446/Stat_project_2450027/assets/145694364/23475a67-9e42-436a-8c53-04bc5f1a7cd2)
-
-- In this, a yield strength has been calculated, and shown to be 1,2707 Von mises (N/m^2) A level several magnitudes above what could be generated in a body. An obvious conclusion is the material strength is suitable for this application.
+The folder 

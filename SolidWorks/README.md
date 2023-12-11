@@ -5,7 +5,7 @@ The models can be found on my [GrabCad!](https://grabcad.com/luke.edgecombe-2/mo
 For this portion of the project. Using surgeon manuals and the paper a replication of the prosthetic was generated.
 
 Once the model was generated
-- model is assebmled
+- model is assembled
 - approriate finite element analysis (FEA) acheieved
 - link FEA to stresses in the body
 - construction drawings with dimension are made
@@ -21,3 +21,7 @@ The construction drawing sheet demonstrates the individual parts dimesions and t
 The folder study reports contains FEA analysis info.
 
 From this folder we can derive some important information 
+
+First we analyse the extension assebmly, in particual a torsion analyisis on the circular face 
+![image](https://github.com/Luk446/Stat_project_2450027/assets/145694364/c0e6d1f2-8625-4a71-b314-a6ad4e1e6fae)
+

@@ -18,4 +18,6 @@ The construction drawing sheet demonstrates the individual parts dimesions and t
 ![Constructiondrawings+assems](https://github.com/Luk446/Stat_project_2450027/assets/145694364/d9d9b34a-ab4e-4b96-8733-7f5b4b1ea489)
 
 
-The folder study reports contains FEA analysis info
+The folder study reports contains FEA analysis info.
+
+From this folder we can derive some important information 

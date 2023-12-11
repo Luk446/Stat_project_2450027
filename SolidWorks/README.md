@@ -15,7 +15,7 @@ Once the model was generated
 -  assembly manual used for dimensions  [Manual](VEPTR_information_sheet.pdf) + [Manual 2](veptter_2_manual.pdf)
 
 
-The construction drawing sheet demonstrates the individual parts dimensions and the method of assembly through sub-assembly and exploded views 
+The construction drawing sheet demonstrates the individual parts dimensions and the method of assembly through sub-assembly and exploded views (it is shown on pic but for clarity dimensions are in mm)
 
 ![Constructiondrawings+assems](https://github.com/Luk446/Stat_project_2450027/assets/145694364/d9d9b34a-ab4e-4b96-8733-7f5b4b1ea489)
 

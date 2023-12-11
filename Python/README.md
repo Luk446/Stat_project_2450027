@@ -1,4 +1,4 @@
-This folder contains all the python code. Due to its convenience the code is formatted into jupyter notebooks, as they allow for tiered result presenentation and the option to markdowns (text boxes) under code is very useful.
+This folder contains all the python code. Due to its convenience the code is formatted into jupyter notebooks, as they allow for tiered result presentation and the option to markdowns (text boxes) under code is very useful.
 At the beginning of all the notebooks is a detailed explanation of the path taken and the reason behind it, furthermore each line of code is commented for explanation,
 
 The files are also avaiable as pdf format in a seperate folder

@@ -25,3 +25,5 @@ From this folder we can derive some important information
 First we analyse the extension assebmly, in particual a torsion analyisis on the circular face 
 ![image](https://github.com/Luk446/Stat_project_2450027/assets/145694364/c0e6d1f2-8625-4a71-b314-a6ad4e1e6fae)
 
+FEA detail can be found 
+

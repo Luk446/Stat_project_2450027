@@ -12,7 +12,7 @@ Once the model was generated
 - Visualisation done
 - construction drawings with dimension are made
 
-- [Manual](VEPTR_information_sheet.pdf) + [Manual 2](veptter_2_manual.pdf)
+-  assembly manual used for dimensions  [Manual](VEPTR_information_sheet.pdf) + [Manual 2](veptter_2_manual.pdf)
 
 
 The construction drawing sheet demonstrates the individual parts dimesions and the method of assembly through sub-assebmly and exploded views 

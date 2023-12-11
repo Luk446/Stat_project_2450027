@@ -1,5 +1,7 @@
 This folder contains limited visualisation of the solidworks part of the project. Due to the specificity of displaying models site like grabcad are much more suited. The construction drawings FEA reports are all available however. 
 
+A limited amount of python is performed for this section too and can be found in solidworkspython
+
 The models can be found on my [GrabCad!](https://grabcad.com/luke.edgecombe-2/models)
 
 For this portion of the project. Using surgeon manuals and the paper a replication of the prosthetic was generated.

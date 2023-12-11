@@ -1,1 +1,1 @@
-THis solidwork generated report from stood
+This folder contains the generated reports from the solidworks material studies

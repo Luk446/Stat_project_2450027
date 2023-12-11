@@ -3,7 +3,7 @@ For zipped file the github can be found at [GitHub](https://github.com/Luk446/St
 
 Python and Solidworks statistical analysis for university year 3 RnD module project. The aim of this project is to perform multiple statistical analysis on a medical prosthetic.
 
-The project is spli into two parts
+The project is split into two parts, which can be found in their relevant folder
 - Python data analysis using info derived from the paper
 - Solidworks 3d modelling
     - We use some python in this section too, utilising the visualisation power of python to describe material analysis

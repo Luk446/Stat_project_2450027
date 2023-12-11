@@ -24,7 +24,12 @@ The folder study reports contains FEA analysis info.
 
 From this folder we can derive some important information 
 
-First we analyse the extension assebmly, in particual a torsion analyisis on the circular face 
+First we analyse the extension assembly, in particular a torsion analyisis on the circular face 
 ![image](https://github.com/Luk446/Stat_project_2450027/assets/145694364/c0e6d1f2-8625-4a71-b314-a6ad4e1e6fae)
+
+Next we analyse the screw hook assembly, the hook face is tested.
+
+![image](https://github.com/Luk446/Stat_project_2450027/assets/145694364/ee2e7f7e-f81d-453e-b937-d6a427c60856)
+
 
 All info derived is collated and displayed in the notebook "solidworkspython"

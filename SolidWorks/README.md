@@ -9,7 +9,7 @@ For this portion of the project. Using surgeon manuals and the paper a replicati
 Once the model was generated
 - model is assembled
 - approriate finite element analysis (FEA) acheieved
-- link FEA to stresses in the body
+- Visualisation done
 - construction drawings with dimension are made
 
 - [Manual](VEPTR_information_sheet.pdf) + [Manual 2](veptter_2_manual.pdf)

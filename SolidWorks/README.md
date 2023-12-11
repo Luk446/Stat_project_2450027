@@ -24,7 +24,7 @@ The folder study reports contains the generated FEA analysis info, the detail is
 
 For an easier more general evaluation a python notebook is generated following the format below:
 
-- For the data from the two assemblies we use the seaborn histplot function which plots bivarite histograms that are excellent in demonstrating the density of value distribution for values recorded
+- For the data from the two assemblies we use the seaborn histplot function which plots bivariate histograms that are excellent in demonstrating the density of value distribution for values recorded
 
 First we analyse the extension assembly, in particular a torsion analyisis on the circular face 
 ![image](https://github.com/Luk446/Stat_project_2450027/assets/145694364/c0e6d1f2-8625-4a71-b314-a6ad4e1e6fae)
